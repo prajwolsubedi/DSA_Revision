@@ -1,0 +1,80 @@
+# ===================================
+# C++ Build / Compiler Files
+# ===================================
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# ===================================
+# IDE and Editor Files
+# ===================================
+
+# VS Code
+.vscode/
+*.code-workspace
+tempCodeRunnerFile.cpp
+
+# Code::Blocks
+*.layout
+*.depend
+
+# CLion / JetBrains
+.idea/
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.user
+*.filters
+Debug/
+Release/
+ipch/
+*.pdb
+*.idb
+
+# ===================================
+# OS-specific files
+# ===================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ===================================
+# Build system folders
+# ===================================
+build/
+bin/
+obj/
+out/
+dist/
+
+# ===================================
+# Backup and temporary files
+# ===================================
+*.bak
+*.tmp
+*.swp
+*.log
+*.stackdump
