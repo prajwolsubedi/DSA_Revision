@@ -59,5 +59,5 @@ int main(){
  * @brief 
  * Time complexity - O(n^2)
  * Sum of n natural numbers = n(n+1) / 2
- * if swapped added best case = O(n) if the elements are aleady sorted(only)
+ * if swapped=false added best case = O(n) if the elements are aleady sorted(only)
  */

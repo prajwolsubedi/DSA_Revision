@@ -37,3 +37,13 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+
+/***
+ * 
+ * Time Complexity - O(n^2)
+ * - Sum of n-1 natural numbers both for comparision and swapping(moving)
+ * sum of n natural number's formula is n(n+1)/2
+ * best case is O(n) cause only comparing and no swapping
+ * 
+ */
